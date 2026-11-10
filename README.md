@@ -3,6 +3,7 @@ thermal-guard for Dell Pro Max AI GB10
 
 ## What does this script do:
 Problem: my Dell Pro max GB10 Always thermal shutdown during heavy load.
+
 Solution: I ask Claude to create the script to cap the frequency to 1.8GHz when reaching 90 degrees to avoid thermal shuwdown.
 
 ### Move the script to /usr/local/bin
